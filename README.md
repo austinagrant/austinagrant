@@ -7,7 +7,7 @@ Low-level programming and AI are my main interests right now. The chess program 
 A lot of my other projets are not on my Github as they are from school, but I can walk you through my thought process and show code during a zoom/interview. I would love to talk about them. Some of the projects: Compiler in OCAML (functional langauge & assembly), Song Lyric Classifier (Python, Pytorch), Low-level unix utitilies/commands (XARGS, EXEC, ect, and multithreaded programming), and a Java/Android application complete with: javadoc, use-case coverage, unit-testing, iterative stages, and class diagrams. 
 
 ## Contacts
-email: austinagrant@gmail.com
+###email: austinagrant@gmail.com
 I love tide-pooling (hence the octopus) and the wacky ways we all percieve the world. I just finished Other Minds, a book on octopus brain evolution and I'm currently reading Determined about (our lack??) of free will. I would love to chat about my code, your code, or anything else you can think of.
 
 
