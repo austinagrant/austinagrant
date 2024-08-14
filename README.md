@@ -8,11 +8,27 @@ A lot of my other projets are not on my Github as they are from school, but I ca
 
 ## Contacts
 ### email: austinagrant@gmail.com
-I love tide-pooling (hence the octopus) and the wacky ways we all percieve the world. I just finished Other Minds, a book on octopus brain evolution and I'm currently reading Determined about (our lack??) of free will. I would love to chat about my code, your code, or anything else you can think of.
+
+## About me 
+I love tide-pooling (hence the octopus) and the wacky ways we all percieve the world. I just finished Other Minds, a book on octopus brain evolution and I'm currently reading Determined about (our lack??) of free will. I also love fantasy/Sci-fi books, GOT, Dune, Foundation. I would love to chat about my code, your code, or anything else you can think of.
 
 
 ## Programming Langauges
+#### This is very honest (I think)
+| Langauge | Proficiency | 
+| :------: | :---------: |
+| Java     | 8/10        |
+| Python   | 8/10        |
+| C        | 5/10        |
+| OCAML    | 6/10        |
+| SQL      | 5/10        |
+
 I am most comfortable with Python and Java, having made complex programs in both. My C is coming along as a learn more difficult concepts (I have pointers down through). OCAML is a very elegent language and would love to be able to keep using it. SQL is also in my repertoire but getting rusty.
 
-# Langauges
-English (native), French(intermediate/advanced), Spanish (intermediate)
+## Langauges
+| Langauge | Proficiency |
+| :------: | :---------: |
+| English  | Native      |
+| French   | Intermediate/Advance | 
+| Spanish  | Intermediate |
+
