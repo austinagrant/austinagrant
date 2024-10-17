@@ -1,4 +1,4 @@
-# Hi! My name is Austin Grant and welcome to my GitHub[https://github.com/austinagrant]!
+# Hi! My name is Austin Grant and welcome to my [GitHub](https://github.com/austinagrant)!
 I am a recent graduate from Vassar College where I majored in Computer Science and minored in French.
 I was still able to explore other areas of interest such as Geography, History, Politcal Science and Philisophy.
 Being wrong is starting to be more fun, and I'm starting to be wrong more often, but right about more things. The more I learn the more I know what I don't know. I am currently devouring [Sebastian Lague](https://www.youtube.com/@SebastianLague)'s youtube channel where he codes new projects in a super digestible format. 
